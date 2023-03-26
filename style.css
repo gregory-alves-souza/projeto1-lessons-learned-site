@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(253, 251, 251);
+    margin: 0;
+    padding: 0;
+  }
+  
+  #cabecalho {
+    text-align: center;
+    background-color: darkgreen;
+    height: 100px;
+    top: 0px;
+    font-family: sans-serif;
+  }
+  .div1 {
+    float: left;
+    width: 50%;
+    background-color: black;
+    color: rgb(253, 251, 251);
+  }
+  
+  .div2 {
+    float: right;
+    width: 50%;
+    background-color: black;
+    color: rgb(253, 251, 251);
+  }
+  
+  
+  #minha_foto {
+    left: 400px;
+    display: block;
+    margin: auto;
+    margin-top: -10px;
+  }
+  
+  .licoes {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  
+  .texto {
+    font-family: sans-serif;
+  }
+  
+  #rodapé {
+    background-color: darkgreen;
+    height: 120px;
+  }
+
+  .aside-article {
+    background-color: black;
+    color: rgb(253, 251, 251);
+
+
+  }
